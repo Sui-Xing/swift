@@ -1,0 +1,16 @@
+[query]:    55555
+[images]:   None
+[response]: The number 55555 is an odd number and not a prime number. It is divisible by 3, 7, 10, and 55555.
+[label]:    66666
+==================================================
+[query]:    eeeee
+[images]:   None
+[response]: Hello! How may I assist you today?
+[label]:    fffff
+==================================================
+[query]:    EEEEE
+[images]:   None
+[response]: EEEEE stands for Electronic Entertainment Equipment, which is a group of electronic devices that are used to create and enjoy entertainment. These devices include computers, video game consoles, smartphones, tablets, gaming consoles, and other forms of digital media. They are often used in combination with each other to create immersive experiences and provide entertainment to people of all ages and backgrounds. Some popular brands of electronic entertainment equipment include Nintendo Switch, PlayStation 4, Xbox One, and Microsoft Surface.
+[label]:    FFFFF
+==================================================
+正确的回答有0个，正确率为0.0000, rouge-1 F评分为 0.0000, rouge-2 F评分为 0.0000 
